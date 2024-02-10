@@ -1,7 +1,9 @@
-import pandas as pandas
-import numpy as np 
-import matplotlib.pyplot as plt 
 
+a = 5
+b = 7
 
+def sum(a,b):
+    c = a+b
+    return c
 
-print("Test code")
+print ("Added a new function")
